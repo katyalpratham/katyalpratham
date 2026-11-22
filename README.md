@@ -4,10 +4,11 @@
 
 Building scalable applications, intelligent solutions, and meaningful digital experiences.
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.linkedin.com/in/pratham-katyal-b88634377/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Katyal_pratham1/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/ranger_1"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://www.geeksforgeeks.org/profile/pkatyapv3y"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 <a href="https://wa.me/918360992324"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0C0D10?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
 
 </div>
 
@@ -42,16 +43,16 @@ I'm an MCA student from Ludhiana, Punjab, and an aspiring software engineer. I e
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0C0D10&title_color=22D3EE&icon_color=A78BFA&text_color=ECEEF2" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0C0D10&title_color=22D3EE&text_color=ECEEF2" alt="Top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=katyalpratham&show_icons=true&hide_border=true&bg_color=0C0D10&title_color=22D3EE&icon_color=A78BFA&text_color=ECEEF2" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katyalpratham&layout=compact&hide_border=true&bg_color=0C0D10&title_color=22D3EE&text_color=ECEEF2" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&background=0C0D10&ring=22D3EE&fire=A78BFA&currStreakLabel=ECEEF2&sideLabels=ECEEF2&currStreakNum=ECEEF2&sideNums=ECEEF2&dates=94A3B8" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=katyalpratham&hide_border=true&background=0C0D10&ring=22D3EE&fire=A78BFA&currStreakLabel=ECEEF2&sideLabels=ECEEF2&currStreakNum=ECEEF2&sideNums=ECEEF2&dates=94A3B8" alt="Streak" />
 
 </div>
 
 ### Let's connect
 
-Reach me on [WhatsApp](https://wa.me/918360992324) or through my [portfolio](https://YOUR_PORTFOLIO_URL). I reply fastest on WhatsApp.
+Reach me on [WhatsApp](https://wa.me/918360992324) or [LinkedIn](https://www.linkedin.com/in/pratham-katyal-b88634377/). I reply fastest on WhatsApp.
 
 <div align="center">
 
